@@ -7,8 +7,6 @@
   </div>
 </template>
 
-
-
 <script>
 import ExampleItem from "../components/ExampleItem.vue";
 export default {
